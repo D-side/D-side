@@ -6,4 +6,4 @@
 
 📫 I keep my up-to-date contact details over on [🌍 my website](https://dside.ru/en/). Feel free to get in touch by any means specified there!
 
-> [🇷🇺 Не говорите по-английски?](README-ru.md)
+> [🇷🇺 Не говорите по-английски?](https://github.com/D-side/D-side/blob/master/README-ru.md)
