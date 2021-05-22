@@ -9,4 +9,4 @@
 ---
 
 * [🇷🇺 Не говорите по-английски?](https://github.com/D-side/D-side/blob/master/README-ru.md)
-* ✔ Mastodon link verifications: <a href="https://mastodon.online/@dside" rel="me">en</a>, <a href="https://mastodon.ml/@dside" rel="me">ru</a>
+* ✔ Mastodon link verifications: <a href="https://mastodon.online/@dside" rel="nofollow me">en</a>, <a href="https://mastodon.ml/@dside" rel="nofollow me">ru</a>
